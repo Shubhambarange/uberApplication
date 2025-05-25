@@ -10,7 +10,6 @@ import org.springframework.data.domain.Sort;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.access.annotation.Secured;
 import org.springframework.web.bind.annotation.*;
-
 @RestController
 @RequestMapping("/riders")
 @RequiredArgsConstructor
